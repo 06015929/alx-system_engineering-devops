@@ -1,0 +1,2 @@
+#!/bin/bash
+man magic file -c -m <magic file> file -m <magic file>
